@@ -1,4 +1,4 @@
-# Google Maps Scraper — Extract Business Data Without a Browser
+# Free Google Maps Scraper — Extract Business Data Without a Browser
 
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
